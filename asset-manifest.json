@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tour_react/static/css/main.8e49c9d7.chunk.css",
+    "main.js": "/tour_react/static/js/main.c7703858.chunk.js",
+    "main.js.map": "/tour_react/static/js/main.c7703858.chunk.js.map",
+    "runtime-main.js": "/tour_react/static/js/runtime-main.ec033fa0.js",
+    "runtime-main.js.map": "/tour_react/static/js/runtime-main.ec033fa0.js.map",
+    "static/js/2.b79bb511.chunk.js": "/tour_react/static/js/2.b79bb511.chunk.js",
+    "static/js/2.b79bb511.chunk.js.map": "/tour_react/static/js/2.b79bb511.chunk.js.map",
+    "index.html": "/tour_react/index.html",
+    "precache-manifest.8d64f3f0edc4e6c5a947d0802e7ac66e.js": "/tour_react/precache-manifest.8d64f3f0edc4e6c5a947d0802e7ac66e.js",
+    "service-worker.js": "/tour_react/service-worker.js",
+    "static/css/main.8e49c9d7.chunk.css.map": "/tour_react/static/css/main.8e49c9d7.chunk.css.map",
+    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/tour_react/static/js/2.b79bb511.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec033fa0.js",
+    "static/js/2.b79bb511.chunk.js",
+    "static/css/main.8e49c9d7.chunk.css",
+    "static/js/main.c7703858.chunk.js"
+  ]
+}
